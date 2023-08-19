@@ -1,0 +1,14 @@
+.btns:hover{
+    background-color: green;
+    
+}
+
+.positionstr{
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+}
+
+ .mybtn,h4, h3{
+    font-family: 'Playfair', serif;
+}
